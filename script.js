@@ -11,4 +11,3 @@ function on_off() {
 }
 
 function affiche_value() {}
-/*test*/
