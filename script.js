@@ -11,3 +11,4 @@ function on_off() {
 }
 
 function affiche_value() {}
+/* sale pute ca marche la */
